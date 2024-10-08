@@ -1,0 +1,14 @@
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.exe
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.deps.json
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.runtimeconfig.json
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.dll
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\bin\Debug\net8.0\AgregacaoConta.pdb
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.AssemblyInfoInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.AssemblyInfo.cs
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.dll
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\refint\AgregacaoConta.dll
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.pdb
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\AgregacaoConta.genruntimeconfig.cache
+D:\Felipe\FATEC\POO\POO_noite\AgregacaoConta\obj\Debug\net8.0\ref\AgregacaoConta.dll
