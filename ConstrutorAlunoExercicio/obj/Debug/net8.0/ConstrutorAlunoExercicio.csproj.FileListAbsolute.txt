@@ -1,0 +1,14 @@
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.AssemblyInfoInputs.cache
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.AssemblyInfo.cs
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.csproj.CoreCompileInputs.cache
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\bin\Debug\net8.0\ConstrutorAlunoExercicio.exe
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\bin\Debug\net8.0\ConstrutorAlunoExercicio.deps.json
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\bin\Debug\net8.0\ConstrutorAlunoExercicio.runtimeconfig.json
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\bin\Debug\net8.0\ConstrutorAlunoExercicio.dll
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\bin\Debug\net8.0\ConstrutorAlunoExercicio.pdb
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.dll
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\refint\ConstrutorAlunoExercicio.dll
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.pdb
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ConstrutorAlunoExercicio.genruntimeconfig.cache
+F:\Felipe\FATEC\POO\POO_noite\ConstrutorAlunoExercicio\obj\Debug\net8.0\ref\ConstrutorAlunoExercicio.dll

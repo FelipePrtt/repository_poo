@@ -1,0 +1,14 @@
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.AssemblyInfoInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.AssemblyInfo.cs
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.csproj.CoreCompileInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\bin\Debug\net8.0\HerancaFuncionario.exe
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\bin\Debug\net8.0\HerancaFuncionario.deps.json
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\bin\Debug\net8.0\HerancaFuncionario.runtimeconfig.json
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\bin\Debug\net8.0\HerancaFuncionario.dll
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\bin\Debug\net8.0\HerancaFuncionario.pdb
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.dll
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\refint\HerancaFuncionario.dll
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.pdb
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\HerancaFuncionario.genruntimeconfig.cache
+D:\Felipe\FATEC\POO\POO_noite\HerancaFuncionario\obj\Debug\net8.0\ref\HerancaFuncionario.dll

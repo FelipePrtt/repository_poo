@@ -1,0 +1,14 @@
+D:\POO noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.exe
+D:\POO noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.deps.json
+D:\POO noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.runtimeconfig.json
+D:\POO noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.dll
+D:\POO noite\ClasseFuncionario\bin\Debug\net8.0\ClasseFuncionario.pdb
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfoInputs.cache
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfo.cs
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.dll
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\refint\ClasseFuncionario.dll
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.pdb
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.genruntimeconfig.cache
+D:\POO noite\ClasseFuncionario\obj\Debug\net8.0\ref\ClasseFuncionario.dll

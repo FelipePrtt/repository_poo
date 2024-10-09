@@ -1,0 +1,14 @@
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.exe
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.deps.json
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.runtimeconfig.json
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.dll
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.pdb
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.dll
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\refint\ComposicaoNotaFiscal.dll
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.pdb
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+D:\Felipe\FATEC\POO\POO_noite\ComposisaoNotaFiscal\obj\Debug\net8.0\ref\ComposicaoNotaFiscal.dll

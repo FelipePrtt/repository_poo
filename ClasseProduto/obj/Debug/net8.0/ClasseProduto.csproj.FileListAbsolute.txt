@@ -1,0 +1,14 @@
+D:\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.exe
+D:\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.deps.json
+D:\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.runtimeconfig.json
+D:\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.dll
+D:\POO noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.pdb
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfoInputs.cache
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfo.cs
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.csproj.CoreCompileInputs.cache
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.dll
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\refint\ClasseProduto.dll
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.pdb
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.genruntimeconfig.cache
+D:\POO noite\ClasseProduto\obj\Debug\net8.0\ref\ClasseProduto.dll

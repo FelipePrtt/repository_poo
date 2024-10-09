@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.exe
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.deps.json
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.runtimeconfig.json
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.dll
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.pdb
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.dll
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\refint\ConstrutorConta.dll
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.pdb
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO noite\ConstrutorConta\obj\Debug\net8.0\ref\ConstrutorConta.dll

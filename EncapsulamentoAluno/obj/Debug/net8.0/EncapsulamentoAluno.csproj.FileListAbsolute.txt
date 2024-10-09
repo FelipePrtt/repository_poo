@@ -1,0 +1,14 @@
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.AssemblyInfoInputs.cache
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.AssemblyInfo.cs
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.csproj.CoreCompileInputs.cache
+D:\POO noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.exe
+D:\POO noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.deps.json
+D:\POO noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.runtimeconfig.json
+D:\POO noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.dll
+D:\POO noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.pdb
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.dll
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\refint\EncapsulamentoAluno.dll
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.pdb
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.genruntimeconfig.cache
+D:\POO noite\EncapsulamentoAluno\obj\Debug\net8.0\ref\EncapsulamentoAluno.dll

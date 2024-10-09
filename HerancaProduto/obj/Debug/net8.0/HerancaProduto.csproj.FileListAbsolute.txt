@@ -1,0 +1,14 @@
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.AssemblyInfoInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.AssemblyInfo.cs
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.csproj.CoreCompileInputs.cache
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.exe
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.deps.json
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.runtimeconfig.json
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.dll
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.pdb
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.dll
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\refint\HerancaProduto.dll
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.pdb
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.genruntimeconfig.cache
+D:\Felipe\FATEC\POO\POO_noite\HerancaProduto\obj\Debug\net8.0\ref\HerancaProduto.dll

@@ -1,0 +1,14 @@
+D:\POO noite\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.exe
+D:\POO noite\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.deps.json
+D:\POO noite\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.runtimeconfig.json
+D:\POO noite\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.dll
+D:\POO noite\EncapsulamentoProduto\bin\Debug\net8.0\EncapsulamentoProduto.pdb
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.AssemblyInfoInputs.cache
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.AssemblyInfo.cs
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.csproj.CoreCompileInputs.cache
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.dll
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\refint\EncapsulamentoProduto.dll
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.pdb
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\EncapsulamentoProduto.genruntimeconfig.cache
+D:\POO noite\EncapsulamentoProduto\obj\Debug\net8.0\ref\EncapsulamentoProduto.dll
