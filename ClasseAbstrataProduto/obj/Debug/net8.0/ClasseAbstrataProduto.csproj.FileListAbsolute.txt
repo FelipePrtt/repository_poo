@@ -1,0 +1,15 @@
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.GeneratedMSBuildEditorConfig.editorconfig
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.AssemblyInfoInputs.cache
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.AssemblyInfo.cs
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.csproj.CoreCompileInputs.cache
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.sourcelink.json
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\bin\Debug\net8.0\ClasseAbstrataProduto.exe
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\bin\Debug\net8.0\ClasseAbstrataProduto.deps.json
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\bin\Debug\net8.0\ClasseAbstrataProduto.runtimeconfig.json
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\bin\Debug\net8.0\ClasseAbstrataProduto.dll
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\bin\Debug\net8.0\ClasseAbstrataProduto.pdb
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.dll
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\refint\ClasseAbstrataProduto.dll
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.pdb
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ClasseAbstrataProduto.genruntimeconfig.cache
+G:\FATEC\POO\repository_poo\ClasseAbstrataProduto\obj\Debug\net8.0\ref\ClasseAbstrataProduto.dll
