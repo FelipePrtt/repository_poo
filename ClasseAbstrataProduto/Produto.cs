@@ -18,9 +18,6 @@ namespace ClasseAbstrataProduto
             Preco = preco;
         }
 
-        public virtual void MostrarAtributos()
-        {
-            Console.WriteLine($"Código do produto: {Codigo}\nPreço: R$ {Preco}");
-        }
+        public abstract void MostrarAtributos();
     }
 }

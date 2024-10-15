@@ -10,7 +10,7 @@ Livro livro1 = new Livro(002, 9.18, "Carlos", 18362658762758);
 livro1.MostrarAtributos();
 
 
-Console.WriteLine("ATUALIZAÇÃO DE PREÇOS!");
+Console.WriteLine("\nATUALIZAÇÃO DE PREÇOS!\n");
 
 disco1.atualizarPreco(9.21);
 disco1.MostrarAtributos();

@@ -25,8 +25,7 @@ namespace ClasseAbstrataProduto
 
         public override void MostrarAtributos()
         {
-            base.MostrarAtributos();
-            Console.WriteLine($"Artista: {Artista}\nGravadora: {Gravadora}\n");
+            Console.WriteLine($"Código: {Codigo}\nPreço: R$ {Preco}\nArtista: {Artista}\nGravadora: {Gravadora}\n");
         }
     }
 }

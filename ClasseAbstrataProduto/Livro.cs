@@ -23,8 +23,7 @@ namespace ClasseAbstrataProduto
 
         public override void MostrarAtributos()
         {
-            base.MostrarAtributos();
-            Console.WriteLine($"Autor: {Autor}\nIsbn: {Isbn}");
+            Console.WriteLine($"Código: {Codigo}\nPreço: R$ {Preco}\nAutor: {Autor}\nIsbn: {Isbn}");
         }
     }
 }
