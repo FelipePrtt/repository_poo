@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.sourcelink.json
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.exe
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.deps.json
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.pdb
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\refint\InterfaceAutenticavel.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.pdb
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\InterfaceAutenticavel\obj\Debug\net8.0\ref\InterfaceAutenticavel.dll
