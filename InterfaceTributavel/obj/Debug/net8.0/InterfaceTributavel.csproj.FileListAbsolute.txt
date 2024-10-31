@@ -1,0 +1,15 @@
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.AssemblyInfoInputs.cache
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.AssemblyInfo.cs
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.sourcelink.json
+G:\FATEC\POO\repository_poo\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.exe
+G:\FATEC\POO\repository_poo\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.deps.json
+G:\FATEC\POO\repository_poo\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.runtimeconfig.json
+G:\FATEC\POO\repository_poo\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.dll
+G:\FATEC\POO\repository_poo\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.pdb
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.dll
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\refint\InterfaceTributavel.dll
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.pdb
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.genruntimeconfig.cache
+G:\FATEC\POO\repository_poo\InterfaceTributavel\obj\Debug\net8.0\ref\InterfaceTributavel.dll
