@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.sourcelink.json
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\bin\Debug\net8.0\VendaNoCaixa.exe
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\bin\Debug\net8.0\VendaNoCaixa.deps.json
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\bin\Debug\net8.0\VendaNoCaixa.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\bin\Debug\net8.0\VendaNoCaixa.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\bin\Debug\net8.0\VendaNoCaixa.pdb
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\refint\VendaNoCaixa.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.pdb
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\VendaNoCaixa.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\VendaNoCaixa\obj\Debug\net8.0\ref\VendaNoCaixa.dll
