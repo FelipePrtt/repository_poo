@@ -7,6 +7,6 @@ namespace InterfaceTributavel
 {
     public interface ITributavel
     {
-        double CalcularTributos(double saldo);
+        double CalcularTributos();
     }
 }

@@ -7,16 +7,28 @@ namespace InterfaceTributavel
 {
     public class ContaCorrente : ITributavel
     {
+        //Atributos
         private double saldo;
         public double Saldo
         {
             get { return saldo; }
             set { saldo = value; }
         }
-        
-        public double CalcularTributos(double saldo)
+
+        //Construtores
+        public ContaCorrente()
         {
-            return saldo * 0.05;
+            
+        }
+        public ContaCorrente(double saldo)
+        {
+            Saldo = saldo;
+        }
+
+        //Métodos
+        public double CalcularTributos()
+        {
+            return Saldo * 0.05;
         }
     }
 }

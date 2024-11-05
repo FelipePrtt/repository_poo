@@ -7,9 +7,31 @@ namespace InterfaceTributavel
 {
     public class SeguroDeVida : ITributavel
     {
-        public double CalcularTributos(double Saldo)
+        //Atributos
+        private double valorSeguro;
+
+        public double ValorSeguro
+        {
+            get {return valorSeguro;}
+            set {valorSeguro = value;}
+        }
+
+        //Contrutores
+        public SeguroDeVida()
+        {
+            
+        }
+        public SeguroDeVida(double valorSeguro)
+        {
+            ValorSeguro = valorSeguro;
+        }
+
+        //Métodos
+        public double CalcularTributos()
         {
             return 75;
         }
+
+        
     }
 }
