@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Felipe\\FATEC\\POO\\POO_noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
+      "projectUniqueName": "G:\\FATEC\\POO\\repository_poo\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
       "projectName": "AgregacaoContaArray",
-      "projectPath": "F:\\Felipe\\FATEC\\POO\\POO_noite\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
+      "projectPath": "G:\\FATEC\\POO\\repository_poo\\AgregacaoContaArray\\AgregacaoContaArray.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "F:\\Felipe\\FATEC\\POO\\POO_noite\\AgregacaoContaArray\\obj\\",
+      "outputPath": "G:\\FATEC\\POO\\repository_poo\\AgregacaoContaArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"

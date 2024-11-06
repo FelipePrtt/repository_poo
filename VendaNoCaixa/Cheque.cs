@@ -21,7 +21,7 @@ namespace VendaNoCaixa
             get { return dataDeposito; }
             set { dataDeposito = value; }
         }
-        public int situacao
+        public int Situacao
         {
             get { return situacao; }
             set { situacao = value; }
