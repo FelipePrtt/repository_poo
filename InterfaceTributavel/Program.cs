@@ -5,7 +5,7 @@ using InterfaceTributavel;
 ITributavel itr;
 TotalizadorDeTributos totalizador = new TotalizadorDeTributos();
 
-ContaCorrente ct = new ContaCorrente(10000);
+ContaCorrente ct = new ContaCorrente(1000);
 itr = ct;
 Console.WriteLine($"Valor dos tributos a serem pagos pela Conta Corrente: R$ {itr.CalcularTributos()}");
 totalizador.Adicionar(itr);
