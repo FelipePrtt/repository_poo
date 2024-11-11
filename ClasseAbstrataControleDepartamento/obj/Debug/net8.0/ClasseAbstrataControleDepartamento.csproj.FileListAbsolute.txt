@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.sourcelink.json
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\bin\Debug\net8.0\ClasseAbstrataControleDepartamento.exe
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\bin\Debug\net8.0\ClasseAbstrataControleDepartamento.deps.json
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\bin\Debug\net8.0\ClasseAbstrataControleDepartamento.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\bin\Debug\net8.0\ClasseAbstrataControleDepartamento.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\bin\Debug\net8.0\ClasseAbstrataControleDepartamento.pdb
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\refint\ClasseAbstrataControleDepartamento.dll
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.pdb
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ClasseAbstrataControleDepartamento.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\repository_poo\ClasseAbstrataControleDepartamento\obj\Debug\net8.0\ref\ClasseAbstrataControleDepartamento.dll
