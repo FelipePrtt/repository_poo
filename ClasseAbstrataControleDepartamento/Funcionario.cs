@@ -8,10 +8,11 @@ namespace ClasseAbstrataControleDepartamento
     public abstract class Funcionario
     {
         //atributos
+        private static int prox_cod = 0001;
         protected string nome;
         protected double salario;
         protected int codigo;
-        protected string endereco;
+        protected Endereco();
 
         //gets e sets
         public string Nome

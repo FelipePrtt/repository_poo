@@ -17,6 +17,16 @@ namespace ClasseAbstrataControleDepartamento
             set { comissao = value; }
         }
 
+        //Construtores
+        public Comissionado(string nome, string cpf, double salario, Endereco endereco) : base(nome, cpf, salario, endereco)
+        {
+            Nome = nome;
+            cpf = cpf;
+            Salario = salario;
+            Codigo = prox_cod++;
+            Endereco = endereco;
+            Comissao = comissao;
+        }
         //métodos
         public override double calcularSalario(int diasUteis)
         {
