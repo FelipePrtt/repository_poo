@@ -38,21 +38,26 @@ namespace ClasseAbstrataControleDepartamento
         public double calcularFolhaPagamento(int diasUteis)
         { 
             double gastosTotais = 0;
-            foreach (Funcionario f in VetFuncionarios)
+            foreach (Assalariado a in VetFuncionarios)
             {
-                gastosTotais += f.CalcularSalario(diasUteis);
+                gastosTotais += a.calcularSalario(diasUteis);
             }
-            return gastosTotais
+           foreach (Comissionado c in VetFuncionarios)
+            {
+                gastosTotais += c.calcularSalario(diasUteis);
+            }
+
+            return gastosTotais;
         }
         public void admitirFuncionario(Funcionario funcionario)
         {
-            VetFuncionarios.add(funcionario);
+            VetFuncionarios.Add(funcionario);
         }
         public void demitirFuncionario(int id)
         {
             foreach (Funcionario f in VetFuncionarios)
             {
-                if (f.Codigo = id)
+                if (f.Codigo == id)
                 {
                     VetFuncionarios.Remove(f);
                     Console.WriteLine($"Funcionário removido.");

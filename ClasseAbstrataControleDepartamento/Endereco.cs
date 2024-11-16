@@ -8,6 +8,7 @@ namespace ClasseAbstrataControleDepartamento
     public class Endereco
     {
         // Atributos
+        private string bairro;
         private string rua;
         private string numero; //Foi optado por deixar como string para atender numeros com complementos, numeros como "219-A", sem necessitar de outra variavel;
         private string cidade;

@@ -10,10 +10,9 @@ namespace ClasseAbstrataControleDepartamento
         //Construtores
         public Assalariado()
         {}
-        public Assalariado(string nome, string cpf, double salario, Endereco endereco) : base(nome, cpf, salario, endereco)
+        public Assalariado(string nome, double salario, Endereco endereco) : base(nome, salario, endereco)
         {
             Nome = nome;
-            cpf = cpf;
             Salario = salario;
             Codigo = prox_cod++;
             Endereco = endereco;

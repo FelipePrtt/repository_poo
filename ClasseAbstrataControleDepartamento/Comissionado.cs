@@ -18,10 +18,9 @@ namespace ClasseAbstrataControleDepartamento
         }
 
         //Construtores
-        public Comissionado(string nome, string cpf, double salario, Endereco endereco) : base(nome, cpf, salario, endereco)
+        public Comissionado(string nome, double salario, Endereco endereco) : base(nome, salario, endereco)
         {
             Nome = nome;
-            cpf = cpf;
             Salario = salario;
             Codigo = prox_cod++;
             Endereco = endereco;

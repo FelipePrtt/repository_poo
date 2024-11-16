@@ -8,11 +8,11 @@ namespace ClasseAbstrataControleDepartamento
     public abstract class Funcionario
     {
         //atributos
-        private static int prox_cod = 0001;
+        public static int prox_cod = 0001;
         protected string nome;
         protected double salario;
         protected int codigo;
-        protected Endereco();
+        protected Endereco endereco;
 
         //gets e sets
         public string Nome
@@ -30,12 +30,22 @@ namespace ClasseAbstrataControleDepartamento
             get { return codigo; }
             set { codigo = value; }
         }
-        public string Endereco
+        public Endereco Endereco
         {
             get { return endereco; }
             set { endereco = value; }
         }
 
+        //Construtores
+        public Funcionario()
+        {}
+        public Funcionario(string nome, double salario, Endereco endereco)
+        {
+            Nome = nome;
+            Salario = salario;
+            Codigo = prox_cod++;
+            Endereco = endereco;
+        }
         //métodos
         public abstract double calcularSalario(int diasUteis);
     }

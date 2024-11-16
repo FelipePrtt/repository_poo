@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClasseAbstrataControleDepartamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e676e7695a0f071bf4393ce6546ad6680099f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7c7a4f95cdb17fc0401159d47048980888488b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClasseAbstrataControleDepartamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClasseAbstrataControleDepartamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

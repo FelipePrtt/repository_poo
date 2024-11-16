@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\ClasseAbstrataControleDepartamento\\ClasseAbstrataControleDepartamento.csproj",
+      "projectUniqueName": "G:\\FATEC\\POO\\repository_poo\\ClasseAbstrataControleDepartamento\\ClasseAbstrataControleDepartamento.csproj",
       "projectName": "ClasseAbstrataControleDepartamento",
-      "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\ClasseAbstrataControleDepartamento\\ClasseAbstrataControleDepartamento.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\ClasseAbstrataControleDepartamento\\obj\\",
+      "projectPath": "G:\\FATEC\\POO\\repository_poo\\ClasseAbstrataControleDepartamento\\ClasseAbstrataControleDepartamento.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "G:\\FATEC\\POO\\repository_poo\\ClasseAbstrataControleDepartamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
