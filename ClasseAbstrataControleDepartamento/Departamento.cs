@@ -27,26 +27,24 @@ namespace ClasseAbstrataControleDepartamento
 
         //Construtores
         public Departamento()
-        {}
+        {
+            VetFuncionarios = new List<Funcionario>();
+        }
         public Departamento(int codigo, string descricao)
         {
             Codigo = codigo;
             Descricao = descricao;
+            VetFuncionarios = new List<Funcionario>();
         }
 
         //métodos
         public double calcularFolhaPagamento(int diasUteis)
         { 
             double gastosTotais = 0;
-            foreach (Assalariado a in VetFuncionarios)
+            for (int i = 0; i < VetFuncionarios.Count; i++)
             {
-                gastosTotais += a.calcularSalario(diasUteis);
+                gastosTotais += VetFuncionarios[i].calcularSalario(diasUteis);
             }
-           foreach (Comissionado c in VetFuncionarios)
-            {
-                gastosTotais += c.calcularSalario(diasUteis);
-            }
-
             return gastosTotais;
         }
         public void admitirFuncionario(Funcionario funcionario)
@@ -55,24 +53,31 @@ namespace ClasseAbstrataControleDepartamento
         }
         public void demitirFuncionario(int id)
         {
+            Funcionario funcionarioDemitido = null;
             foreach (Funcionario f in VetFuncionarios)
             {
                 if (f.Codigo == id)
                 {
-                    VetFuncionarios.Remove(f);
-                    Console.WriteLine($"Funcionário removido.");
+                    funcionarioDemitido = f;
+                    break;
                 }
-                else
-                {
-                    Console.WriteLine($"Código do funcionário não foi encontrado!");
-                }
+
+            }
+            if (funcionarioDemitido != null)
+            {
+                VetFuncionarios.Remove(funcionarioDemitido);
+                Console.WriteLine("Funcionário removido do sistema.");
+            }
+            else
+            {
+                Console.WriteLine("Funcionário não encontrado.");
             }
         }
         public void listaFuncionarios()
         {
             foreach (Funcionario f in VetFuncionarios)
             {
-                Console.WriteLine($"Nome: {f.Nome}\t Salário: {f.Salario}");
+                Console.WriteLine($"Nome: {f.Nome}\t Salário: {f.Salario} Código: {f.Codigo}");
             }
         }
     }
