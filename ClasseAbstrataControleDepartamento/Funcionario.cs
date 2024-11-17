@@ -13,6 +13,7 @@ namespace ClasseAbstrataControleDepartamento
         protected double salario;
         protected int codigo;
         protected Endereco endereco;
+        protected List<Dependente> Dependentes { get; set; }
 
         //gets e sets
         public string Nome
@@ -38,14 +39,22 @@ namespace ClasseAbstrataControleDepartamento
 
         //Construtores
         public Funcionario()
-        {}
+        {
+            Dependentes = new List<Dependente>();
+        }
         public Funcionario(string nome, double salario, Endereco endereco)
         {
             Nome = nome;
             Salario = salario;
             Endereco = endereco;
+            Dependentes = new List<Dependente>();
         }
         //métodos
         public abstract double calcularSalario(int diasUteis);
+        public abstract int calcularTotalDependentes();
+        public abstract void cadastrarDependente(Dependente novoDependente);
+        public abstract void removerDependente(int codDependente);
+        public abstract void listarDependentes();
+
     }
 }

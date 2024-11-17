@@ -13,7 +13,7 @@ departamentos.Add(departamento1);
 departamentos.Add(departamento2);
 
 int op = 1;
-while (op != 0 && op <= 7)
+while (op != 0 && op <= 9)
 {   
     Console.Clear();
 
@@ -22,6 +22,10 @@ while (op != 0 && op <= 7)
     Console.WriteLine("3 - Listar Funcionários");
     Console.WriteLine("4 - Demitir Funcionário");
     Console.WriteLine("5 - Gerar Folha de Pagamento");
+    Console.WriteLine("6 - Total de Dependentes");
+    Console.WriteLine("7 - Cadastrar Dependente");
+    Console.WriteLine("8 - Remover Dependente");
+    Console.WriteLine("9 - Listar Dependentes");
     Console.WriteLine("0 - Sair");
 
     Console.WriteLine("Selecione a operação");
@@ -176,6 +180,152 @@ while (op != 0 && op <= 7)
                 Console.WriteLine("Departamento não encontrado!");
             }
             break;
-    }
+
+        case 6:
+            Console.Clear();
+
+            //Escolhe o departamento que o funcionário se encontra
+            Console.WriteLine("Digite o código do departamento que o funcionário trabalha: ");
+            int codigoDepFuncionario = Convert.ToInt32(Console.ReadLine());
+            departamentoEncontrado = false;
+
+            foreach (Departamento d in departamentos)
+            {
+                if (codigoDepFuncionario == d.Codigo)
+                {
+                    //Se o departamento foi encontrado, agora busa o funcionário pelo código.
+                    Console.WriteLine("Digite o código do funcionário: ");
+                    int codigoFuncionario = Convert.ToInt32(Console.ReadLine());
+
+                    foreach (Funcionario f in d.VetFuncionarios)
+                    {
+                        if (codigoFuncionario == f.Codigo)
+                        {
+                            Console.WriteLine($"O total de dependentes do funcionário é: {f.calcularTotalDependentes()}");
+                            break;
+                        }
+                    }
+                    departamentoEncontrado = true;
+                    break;
+                }
+            }
+            if(!departamentoEncontrado)
+            {
+                Console.WriteLine("Departamento não encontrado!");
+            }
+            break;
+
+        case 7:
+            Console.Clear();
+            //Instância do dependente
+            Console.Write("Informe o nome do dependente: ");
+            string dependenteNome = Console.ReadLine();
+            Console.Write("Informe a idade do dependente: ");
+            int dependenteIdade = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Informe o código do dependente: ");
+            int dependenteCodigo = Convert.ToInt32(Console.ReadLine());
+            Dependente dependente = new Dependente(dependenteNome, dependenteIdade, dependenteCodigo);
+
+            //Escolhe o departamento que o funcionário se encontra
+            Console.WriteLine("Digite o código do departamento que o funcionário trabalha: ");
+            codigoDepFuncionario = Convert.ToInt32(Console.ReadLine());
+            departamentoEncontrado = false;
+
+            foreach (Departamento d in departamentos)
+            {
+                if (d.Codigo == codigoDepFuncionario)
+                {
+                    departamentoEncontrado = true;
+                    //Busca pelo funcionárionario que receberá o dependente
+                    Console.WriteLine("Digite o código do funcionário: ");
+                    int codigoFuncionario = Convert.ToInt32(Console.ReadLine());
+
+                    foreach (Funcionario f in d.VetFuncionarios)
+                    {
+                        if (f.Codigo == codigoFuncionario)
+                        {
+                            f.cadastrarDependente(dependente);
+                            break;
+                        }
+                    }
+                    break;
+                }
+            }
+            if(!departamentoEncontrado)
+            {
+                Console.WriteLine("Departamento não encontrado!");
+            }
+            break;
+
+        case 8:
+            Console.Clear();
+
+            //Verifica o departamento que o funcionário está
+            Console.WriteLine("Digite o código do departamento que o funcionário trabalha: ");
+            codigoDepFuncionario = Convert.ToInt32(Console.ReadLine());
+            departamentoEncontrado = false;
+
+            foreach (Departamento d in departamentos)
+            {
+                if (d.Codigo == codigoDepFuncionario)
+                {
+                    departamentoEncontrado = true;
+                    //Busca pelo funcionários responsável pelo dependente
+                    Console.WriteLine("Digite o código do funcionário responsável: ");
+                    int codigoFuncionario = Convert.ToInt32(Console.ReadLine());
+                    
+                    foreach (Funcionario f in d.VetFuncionarios)
+                    {
+                        if (f.Codigo == codigoFuncionario)
+                        {
+                            //Informa o dependente
+                            Console.WriteLine("Digite o código do dependente: ");
+                            int codigoDependente = Convert.ToInt32(Console.ReadLine());
+                            f.removerDependente(codigoDependente);
+                            break;
+                        }
+                    }
+                    break;
+                }
+            }
+            if(!departamentoEncontrado)
+            {
+                Console.WriteLine("Departamento não encontrado!");
+            }
+            break;
+        case 9:
+            Console.Clear();
+
+            //Verifica o departamento que o funcionário está
+            Console.WriteLine("Digite o código do departamento que o funcionário trabalha: ");
+            codigoDepFuncionario = Convert.ToInt32(Console.ReadLine());
+            departamentoEncontrado = false;
+
+            foreach (Departamento d in departamentos)
+            {
+                if (d.Codigo == codigoDepFuncionario)
+                {
+                    departamentoEncontrado = true;
+
+                    //Buscar pelo funcionário responsável pelo(s) dependente(s)
+                    Console.WriteLine("Digite o código do funcionário responsável: ");
+                    int codigoFuncionario = Convert.ToInt32(Console.ReadLine());
+                    foreach (Funcionario f in d.VetFuncionarios)
+                    {
+                        if (f.Codigo == codigoFuncionario)
+                        {
+                            f.listarDependentes();
+                            break;
+                        }
+                    }
+                    break;
+                }
+            }
+            if(!departamentoEncontrado)
+            {
+                Console.WriteLine("Departamento não encontrado!");
+            }
+            break;
+    }   
     Console.ReadLine();
 }
