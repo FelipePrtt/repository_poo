@@ -20,6 +20,20 @@ namespace VendaNoCaixa
             get {return troco;}
             set {troco = value;}
         }
+        
+        //Construtores
+        public Especie()
+        {}
+        public Especie(double valor)
+        {
+            Quantia = valor;
+        }
 
+        //Métodos
+        public void calcularTroco(Venda vendaValor)
+        {
+            Troco = Quantia - vendaValor.Total;
+            Console.WriteLine($"O troco do cliente é: R${Troco}")
+        }
     }
 }

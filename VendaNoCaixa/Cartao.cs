@@ -8,7 +8,7 @@ namespace VendaNoCaixa
     public class Cartao : Pagamento
     {
         private string dadosTransacao;
-        private int resultadoTransacao;
+        private string resultadoTransacao;
 
         public string DadosTransacao
         {
@@ -19,6 +19,32 @@ namespace VendaNoCaixa
         {
             get { return resultadoTransacao; }
             set { resultadoTransacao = value; }
+        }
+
+        //Constutor
+        public Cartao()
+        {}
+        public Cartao(string dadosTransacao)
+        {
+            DadosTransacao = dadosTransacao;
+        }
+        
+        //Métodos 
+        public void realizarPagamento()
+        {
+                Console.WriteLine("Pagamento realizado com sucesso!");
+                ResultadoTransacao = "Concluida";
+        }
+        public bool verificarStatus(int status)
+        {
+            if (status == 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

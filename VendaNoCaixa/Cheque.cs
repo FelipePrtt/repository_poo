@@ -26,5 +26,27 @@ namespace VendaNoCaixa
             get { return situacao; }
             set { situacao = value; }
         }
+
+        //Construtores
+        public Cheque()
+        {}
+        public Cheque(long numero)
+        {
+            Numero = numero;
+            DataDeposito = DateTime.Now;
+        }
+
+        //Métodos
+        public void Depositar(int status)
+        {
+            if (status == 1)
+            {
+                Console.WriteLine("Pagamento realizado com sucesso!");
+            }
+            else
+            {
+                Console.WriteLine("Pagamento não realizado!");
+            }
+        }
     }
 }

@@ -8,21 +8,31 @@ namespace VendaNoCaixa
     public class Venda
     {
         private DateTime data;
-
+        private double total;
         public DateTime Data
         {
             get {return data;}
             set {data = value;}
         }
-
-        public Venda()
+        public double Total
         {
-            
+            get { return total; }
+            set { total = value; }
         }
 
-        public Venda(DateTime data)
+        //Construtores
+        public Venda()
+        {}
+        public Venda(ItemVenda itensVenda)
         {
-            Data = data;
+            Data = DateTime.Now;
+            Total = itensVenda.Subtotal;
+        }
+
+        //Método
+        public void resumoVenda()
+        {
+            Console.WriteLine($"Resumo da Venda\nData da Venda: {Data}\nTotal da Venda: R${Total}");
         }
     }
 }

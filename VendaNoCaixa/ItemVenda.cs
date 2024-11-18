@@ -7,8 +7,10 @@ namespace VendaNoCaixa
 {
     public class ItemVenda
     {
+        //Atributos
         private int quantidade;
         private double preco;
+        private double subtotal;
 
         public int Quantidade
         {
@@ -19,6 +21,28 @@ namespace VendaNoCaixa
         {
             get {return preco;}
             set {preco = value;}
+        }
+        public double Subtotal
+        {
+            get {return subtotal;}
+            set {subtotal = value;}
+        }
+
+        // Métodos
+        private void calcularSubtotal(int quantidadeItem, double valorItem)
+        {
+            if (quantidadeItem >= 50)
+            {
+                Subtotal += (valorItem * quantidadeItem) - 0.20;
+            }
+            else
+            {
+                Subtotal += valorItem * quantidadeItem;
+            }
+        }
+        public void adicionarProdutoAVenda(int quantidade, double preco)
+        {
+            calcularSubtotal(quantidade, preco);
         }
     }
 }
