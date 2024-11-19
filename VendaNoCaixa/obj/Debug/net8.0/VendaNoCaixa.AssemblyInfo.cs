@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VendaNoCaixa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b43f34a6613dd3b265e91de13e792235c36ff8f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18809cfa6181d5f4deac47a2add3089f608ff966")]
 [assembly: System.Reflection.AssemblyProductAttribute("VendaNoCaixa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VendaNoCaixa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,7 +37,7 @@ namespace VendaNoCaixa
         }
         public override void mostrarDadosCompra()
         {
-            Console.WriteLine($"Quantia entregue: R${Quantia}\nTroco devolvido: R${Troco}");
+            Console.WriteLine($"Tipo Pagamentpo: Epécie\nQuantia entregue: R${Quantia}\nTroco devolvido: R${Troco}");
         }
     }
 }

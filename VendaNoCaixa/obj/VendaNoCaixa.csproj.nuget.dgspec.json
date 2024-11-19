@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\FATEC\\POO\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj": {}
+    "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj": {}
   },
   "projects": {
-    "G:\\FATEC\\POO\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj": {
+    "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\FATEC\\POO\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj",
         "projectName": "VendaNoCaixa",
-        "projectPath": "G:\\FATEC\\POO\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj",
-        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "G:\\FATEC\\POO\\repository_poo\\VendaNoCaixa\\obj\\",
+        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\VendaNoCaixa\\VendaNoCaixa.csproj",
+        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\repository_poo\\VendaNoCaixa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
