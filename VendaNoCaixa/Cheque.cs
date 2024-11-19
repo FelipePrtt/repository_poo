@@ -37,16 +37,24 @@ namespace VendaNoCaixa
         }
 
         //Métodos
-        public void Depositar(int status)
+        public void realizarPagamento()
+        {
+            Console.WriteLine($"Venda realizada com sucesso!");
+        }
+        public void verificarStatus(int status)
         {
             if (status == 1)
             {
-                Console.WriteLine("Pagamento realizado com sucesso!");
+                Situacao = 1;
             }
             else
             {
-                Console.WriteLine("Pagamento não realizado!");
+                Situacao = 0;
             }
+        }
+        public override void mostrarDadosCompra()
+        {
+            Console.WriteLine($"Tipo de pagamento: Cheque\nNúmero do cheque: {Numero}\nData de depósito: {DataDeposito}");
         }
     }
 }

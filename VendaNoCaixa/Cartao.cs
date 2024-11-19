@@ -8,7 +8,7 @@ namespace VendaNoCaixa
     public class Cartao : Pagamento
     {
         private string dadosTransacao;
-        private string resultadoTransacao;
+        private int resultadoTransacao;
 
         public string DadosTransacao
         {
@@ -33,18 +33,21 @@ namespace VendaNoCaixa
         public void realizarPagamento()
         {
                 Console.WriteLine("Pagamento realizado com sucesso!");
-                ResultadoTransacao = "Concluida";
         }
-        public bool verificarStatus(int status)
+        public void verificarStatus(int status)
         {
             if (status == 1)
             {
-                return true;
+                ResultadoTransacao = 1;
             }
             else
             {
-                return false;
+                ResultadoTransacao = 0;
             }
+        }
+        public override void mostrarDadosCompra()
+        {
+            Console.WriteLine($"Tipo de pagamento: Cartão\nDados da Transação: {DadosTransacao}");
         }
     }
 }

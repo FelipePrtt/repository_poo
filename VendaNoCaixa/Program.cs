@@ -97,37 +97,64 @@ while (op != 0 && op <= 10)
             }
 
             int formaPagamento = 0;
-            Console.Write($"Qual a forma de pagamento?\n1 - Dinheiro\n2 - Cartão\n3 - Cheque");
+            Console.WriteLine($"Qual a forma de pagamento?\n1 - Dinheiro\n2 - Cartão\n3 - Cheque");
             formaPagamento = Convert.ToInt32(Console.ReadLine());
+            Venda venda = null;
             switch (formaPagamento)//switch para escolher a forma de pagamento
             {
+
+
                 case 1://dinheiro
                     Console.Write($"Quantia entregue: ");
                     double dinheiroEntregue = Convert.ToDouble(Console.ReadLine());
                     Especie pagamentoEsp = new Especie(dinheiroEntregue);
                     pagamentoEsp.calcularTroco(dinheiroEntregue);
-                    Console.Write("Pressione ENTER para finalizar a compra:");
+                    venda = new Venda(itens, pagamentoEsp);
+                    Console.Write("Pressione ENTER para finalizar a venda:");
+                    Console.ReadLine();
                     break;
+
+
                 case 2://cartão
                     Console.Write($"Informe os dados do cartão: ");
                     string dados = Console.ReadLine();
                     Cartao pagamentoCar = new Cartao(dados);
-                    if (pagamentoCar.verificarStatus(1))
+
+                    pagamentoCar.verificarStatus(1); //1 - Válido, 0 - Inválido, nessa etapa é apensas para "simular" que uma validação foi feita no cartão
+
+                    if (pagamentoCar.ResultadoTransacao == 1)
                     {   
                         pagamentoCar.realizarPagamento();
+                        venda = new Venda(itens, pagamentoCar);
                     }
                     else
                     {
                         Console.WriteLine("Compra negada!");
                     }
                     break;
+
+
                 case 3://cheque
+                    Console.Write($"Informe o número do cheque: ");
+                    long numCheq = Convert.ToInt64(Console.ReadLine());
+                    Cheque pagamentoCheq = new Cheque(numCheq);
 
+                    pagamentoCheq.verificarStatus(1);//1 - Válido, 0 - Inválido, nessa etapa é apensas para "simular" que uma validação foi feita no depósito
+
+                    if (pagamentoCheq.Situacao == 1)
+                    {
+                        pagamentoCheq.realizarPagamento();
+                        venda = new Venda(itens, pagamentoCheq);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Compra negada!");
+                    }
+                    break; 
             }
-            Venda venda = new Venda(itens);
-
+            venda.resumoVenda();
             break;
-
+            
     }
     Console.ReadLine(); 
 }

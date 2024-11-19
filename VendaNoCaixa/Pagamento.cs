@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace VendaNoCaixa
 {
-    public class Pagamento
+    public abstract class Pagamento
     {
         protected DateTime data;
 
@@ -33,5 +33,8 @@ namespace VendaNoCaixa
             Data = data;
             Total = total;
         }
+
+        //Métodos
+        public abstract void mostrarDadosCompra();
     }
 }

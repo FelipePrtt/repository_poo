@@ -30,10 +30,14 @@ namespace VendaNoCaixa
         }
 
         //Métodos
-        public void calcularTroco(Venda vendaValor)
+        public void calcularTroco(double vendaValor)
         {
-            Troco = Quantia - vendaValor.Total;
-            Console.WriteLine($"O troco do cliente é: R${Troco}")
+            Troco = Quantia - vendaValor;
+            Console.WriteLine($"O troco do cliente é: R${Troco}");
+        }
+        public override void mostrarDadosCompra()
+        {
+            Console.WriteLine($"Quantia entregue: R${Quantia}\nTroco devolvido: R${Troco}");
         }
     }
 }
