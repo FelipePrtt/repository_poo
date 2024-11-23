@@ -1,0 +1,15 @@
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.GeneratedMSBuildEditorConfig.editorconfig
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.AssemblyInfoInputs.cache
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.AssemblyInfo.cs
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.csproj.CoreCompileInputs.cache
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.sourcelink.json
+G:\FATEC\POO\repository_poo\SOLIDSRP\bin\Debug\net8.0\SOLIDSRP.exe
+G:\FATEC\POO\repository_poo\SOLIDSRP\bin\Debug\net8.0\SOLIDSRP.deps.json
+G:\FATEC\POO\repository_poo\SOLIDSRP\bin\Debug\net8.0\SOLIDSRP.runtimeconfig.json
+G:\FATEC\POO\repository_poo\SOLIDSRP\bin\Debug\net8.0\SOLIDSRP.dll
+G:\FATEC\POO\repository_poo\SOLIDSRP\bin\Debug\net8.0\SOLIDSRP.pdb
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.dll
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\refint\SOLIDSRP.dll
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.pdb
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\SOLIDSRP.genruntimeconfig.cache
+G:\FATEC\POO\repository_poo\SOLIDSRP\obj\Debug\net8.0\ref\SOLIDSRP.dll
