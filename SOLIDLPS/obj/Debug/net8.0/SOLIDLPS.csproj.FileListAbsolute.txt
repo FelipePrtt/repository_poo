@@ -1,0 +1,15 @@
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.GeneratedMSBuildEditorConfig.editorconfig
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.AssemblyInfoInputs.cache
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.AssemblyInfo.cs
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.csproj.CoreCompileInputs.cache
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.sourcelink.json
+G:\FATEC\POO\repository_poo\SOLIDLPS\bin\Debug\net8.0\SOLIDLPS.exe
+G:\FATEC\POO\repository_poo\SOLIDLPS\bin\Debug\net8.0\SOLIDLPS.deps.json
+G:\FATEC\POO\repository_poo\SOLIDLPS\bin\Debug\net8.0\SOLIDLPS.runtimeconfig.json
+G:\FATEC\POO\repository_poo\SOLIDLPS\bin\Debug\net8.0\SOLIDLPS.dll
+G:\FATEC\POO\repository_poo\SOLIDLPS\bin\Debug\net8.0\SOLIDLPS.pdb
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.dll
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\refint\SOLIDLPS.dll
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.pdb
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\SOLIDLPS.genruntimeconfig.cache
+G:\FATEC\POO\repository_poo\SOLIDLPS\obj\Debug\net8.0\ref\SOLIDLPS.dll
