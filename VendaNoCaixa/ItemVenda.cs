@@ -33,7 +33,8 @@ namespace VendaNoCaixa
         {
             if (quantidadeItem >= 50)
             {
-                Subtotal += (valorItem * quantidadeItem) - 0.20;
+                Console.WriteLine($"Qtde: {quantidadeItem} Valor item: {valorItem}");
+                Subtotal += (valorItem * quantidadeItem) - (valorItem * quantidadeItem * 0.20);
             }
             else
             {
@@ -42,6 +43,8 @@ namespace VendaNoCaixa
         }
         public void adicionarProdutoAVenda(int quantidade, double preco)
         {
+            Quantidade = quantidade;
+            Preco = preco;
             calcularSubtotal(quantidade, preco);
         }
     }

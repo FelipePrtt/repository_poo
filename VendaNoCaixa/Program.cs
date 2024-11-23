@@ -22,11 +22,11 @@ estoque.adicionarProdutoNoEstoque(p4);
 estoque.adicionarProdutoNoEstoque(p5);
 
 int op = 1;
-while (op != 0 && op <= 10)
+while (op >= 1 && op <= 4)
 {
     Console.Clear();
 
-    Console.WriteLine($"1 - Adicionar Produto\n2 - Remover Produto\n3 - Vizualizar Produtos do Estoque\n4 - Iniciar Venda");
+    Console.WriteLine($"1 - Adicionar Produto\n2 - Remover Produto\n3 - Vizualizar Produtos do Estoque\n4 - Iniciar Venda\n0 - Sair do Sistema");
     op = Convert.ToInt32(Console.ReadLine());
 
     switch (op)
@@ -82,6 +82,8 @@ while (op != 0 && op <= 10)
                         Console.Write("Qual a quantidade que deseja comprar?: ");
                         quantidadeVenda = Convert.ToInt32(Console.ReadLine());
                         itens.adicionarProdutoAVenda(quantidadeVenda, produtoSelecionado.Preco);
+
+                        Console.WriteLine($"Quantidade: {itens.Quantidade} Preço unitário: {itens.Preco} Subtotal: {itens.Subtotal}");
                         break;
                     }
                 }
@@ -105,10 +107,15 @@ while (op != 0 && op <= 10)
 
 
                 case 1://dinheiro
+
+                    //Criação de atribuição do valor a variavel que representa a quantia de dinheiro entre pelo cliente "dinheiroEntregue"
                     Console.Write($"Quantia entregue: ");
                     double dinheiroEntregue = Convert.ToDouble(Console.ReadLine());
+
+                    //Cria uma instância de um objeto espécie, usando o construtor de 1 parâmetro que passar o valor entregue pelo cliente
                     Especie pagamentoEsp = new Especie(dinheiroEntregue);
-                    pagamentoEsp.calcularTroco(dinheiroEntregue);
+
+                    pagamentoEsp.calcularTroco(itens.Subtotal);
                     venda = new Venda(itens, pagamentoEsp);
                     Console.Write("Pressione ENTER para finalizar a venda:");
                     Console.ReadLine();
@@ -152,6 +159,7 @@ while (op != 0 && op <= 10)
                     }
                     break; 
             }
+            Console.Clear();
             venda.resumoVenda();
             break;
             
